@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, i'm Juan Daniel
 
 ![Juan github stats](https://github-readme-stats.vercel.app/api?username=jdniels&show_icons=true)
 
